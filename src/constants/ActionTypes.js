@@ -1,0 +1,9 @@
+export const ADD_TASK = "ADD_TASK";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const CHANGE_UPDATE_TASK = "CHANGE_UPDATE_TASK";
+export const DELETE_TASK = "DELETE_TASK";
+export const TOGGLE_FORM = "TOGGLE_FORM";
+export const CHANGE_STATUS = "CHANGE_STATUS";
+export const FILTER_TASK = "FILTER_TASK";
+export const SEARCH_TASK = "SEARCH_TASK";
+export const SORT_TASK = "SORT_TASK";

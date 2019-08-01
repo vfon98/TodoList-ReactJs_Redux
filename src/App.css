@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-15 {
+  margin-top: 15px;
+}
+table th {
+  text-align: center;
+}
+table td {
+  text-align: center;
+  vertical-align: middle !important;
+}
+.label:hover {
+  cursor: pointer;
+}
+.checked {
+  color: red !important;
+}
+.fa-check {
+  color: green;
+}
+.fa-times {
+  color: red;
+}
+.label, table {
+  user-select: none;
+}
