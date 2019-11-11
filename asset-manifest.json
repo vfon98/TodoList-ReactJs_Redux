@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TodoList-ReactJs_Redux/static/css/main.c6967736.chunk.css",
+    "main.js": "/TodoList-ReactJs_Redux/static/js/main.a28bbbd2.chunk.js",
+    "main.js.map": "/TodoList-ReactJs_Redux/static/js/main.a28bbbd2.chunk.js.map",
+    "runtime-main.js": "/TodoList-ReactJs_Redux/static/js/runtime-main.772c40eb.js",
+    "runtime-main.js.map": "/TodoList-ReactJs_Redux/static/js/runtime-main.772c40eb.js.map",
+    "static/js/2.2df760a9.chunk.js": "/TodoList-ReactJs_Redux/static/js/2.2df760a9.chunk.js",
+    "static/js/2.2df760a9.chunk.js.map": "/TodoList-ReactJs_Redux/static/js/2.2df760a9.chunk.js.map",
+    "index.html": "/TodoList-ReactJs_Redux/index.html",
+    "precache-manifest.61110aee54a9c725be63aa3b05036b39.js": "/TodoList-ReactJs_Redux/precache-manifest.61110aee54a9c725be63aa3b05036b39.js",
+    "service-worker.js": "/TodoList-ReactJs_Redux/service-worker.js",
+    "static/css/main.c6967736.chunk.css.map": "/TodoList-ReactJs_Redux/static/css/main.c6967736.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.772c40eb.js",
+    "static/js/2.2df760a9.chunk.js",
+    "static/css/main.c6967736.chunk.css",
+    "static/js/main.a28bbbd2.chunk.js"
+  ]
+}
